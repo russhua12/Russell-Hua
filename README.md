@@ -1,5 +1,5 @@
 # Russell-Hua
-Research Interests and Past Work
+Research Interests and Past Work:
 
 My primary research interest lies in partial differential equations (PDE), especially those arising from physics and geometric aspects. Below is a truthful record of a significant portion of my previous work during my master’s at MCAM at the University of Chicago and my undergraduate studies at Rutgers University.
 
