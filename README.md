@@ -8,11 +8,10 @@ Past Projects:
 In the “Past Projects” folder, you will find files related to all my previous work, including:
 
 	•	“Relax Functional With Mild Perturbation”
-	•	“Some Geometric Inequalities” (Undergraduate Thesis)
-	•	“Geometry and Topology Qual Guideline”
 	•	“Dirac and Schrödinger Equations with Cubic Nonlinearities” (Master’s Thesis)
 	•	“Fourier Analysis and Its Applications” (Summer REU)
 	•	“Homoclinic Bifurcation Theorem, Some Remarks”
+ 	•	“Geometry and Topology Qual Guideline”
 
 Course Notes:
 
